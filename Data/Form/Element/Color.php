@@ -1,6 +1,6 @@
 <?php
 
-namespace Orange35\ColorPicker\Data\Form\Element;
+namespace Orange35\ColorPickerElement\Data\Form\Element;
 
 class Color extends \Magento\Framework\Data\Form\Element\Text
 {
@@ -18,7 +18,7 @@ class Color extends \Magento\Framework\Data\Form\Element\Text
     private function getDataInitOptions()
     {
         return [
-            'Orange35_ColorPicker/js/colorpicker' => [],
+            'orange35ColorPickerElement' => [],
         ];
     }
 }

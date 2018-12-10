@@ -2,6 +2,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Orange35_ColorPicker',
+    'Orange35_ColorPickerElement',
     __DIR__
 );
