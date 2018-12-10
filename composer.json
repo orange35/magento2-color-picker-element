@@ -6,7 +6,9 @@
     "php": "~5.5.0|~5.6.0|~7.0.6|~7.1.0"
   },
   "type": "magento2-module",
-  "license": "OSL",
+  "license": [
+    "OSL-3.0"
+  ],
   "authors": [
     {
       "name": "Orange35",
